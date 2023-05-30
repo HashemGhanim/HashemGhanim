@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">I am Hashem Ghanim third-year Computer Systems Engineering student at Palestine Technical University PTUK. I have participated in PCPC and many other programming competitions. I am skilled in problem-solving, algorithms, and data structures. I have a strong passion and interest in Database design, Backend software engineering.</p>
+<p align="left">I am Hashem Ghanim third-year Computer Systems Engineering student at Palestine Technical University PTUK. I have participated in PCPC and many other programming competitions. I am skilled in problem-solving, algorithms, and data structures. I have a strong passion and interest in Database design, Backend software engineering.
+  <img align="right" height="150" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"  />
+</p>
 
 ###
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
@@ -34,7 +36,7 @@
   <a href="https://www.instagram.com/hashem.ghanim/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <img align="right" height="150" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"  />
+  
 </div>
 
 ###

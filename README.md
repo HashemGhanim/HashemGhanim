@@ -24,9 +24,6 @@
 ###
 
 <div align="left">
-  <a href="https://codeforces.com/profile/HashemGhanim" target="_blank">
-    <img src="https://badges.joonhyung.xyz/codeforces/jo_on.svg" height="35" alt="linkedin logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/hashem-zerei-b95b30244/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -46,3 +43,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HashemGhanim)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HashemGhanim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+###
+![](https://raw.githubusercontent.com/HashemGhanim/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/HashemGhanim/cf-stats/main/output/light_card.svg)

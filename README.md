@@ -5,6 +5,7 @@
 <p align="left">I am Hashem Ghanim third-year Computer Systems Engineering student at Palestine Technical University PTUK. I have participated in PCPC and many other programming competitions. I am skilled in problem-solving, algorithms, and data structures. I have a strong passion and interest in Database design, Backend software engineering.</p>
 
 ###
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HashemGhain&show_icons=true&theme=dark)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />

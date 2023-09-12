@@ -102,7 +102,13 @@
 
 <br/>  
 
+<br/>  
 
+<div align="center">
+            <a href="https://paypal.me/hashemzerei" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="center"
+                />
+            </a></div>
 <br />
-
-

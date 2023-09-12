@@ -93,8 +93,18 @@
 
 
 ## Codeforces Rate:
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=HashemGhanim)
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=HashemGhanim)
+
+<div align="center">
+  
+  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=HashemGhanim) 
+</div>
+
+<br/>
+
+<div align="center">
+  
+  ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=HashemGhanim)
+</div>
 
 ## Recent Blog Posts  
   

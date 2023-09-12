@@ -140,4 +140,6 @@
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=HashemGhanim)
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=HashemGhanim)](https://codeforces.com/profile/HashemGhanim)
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=HashemGhanim)
+
 

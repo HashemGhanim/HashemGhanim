@@ -58,6 +58,7 @@
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
 </div>
 
+![Redis](https://img.shields.io/badge/Redis-A41E11?style=for-the-badge&logo=Redis&logoColor=white)
 </td></tr></table>  
 
 <br/>  

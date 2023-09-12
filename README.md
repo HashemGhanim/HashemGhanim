@@ -120,19 +120,3 @@
 
 
 
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hashemzerei) 
-
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=HashemGhanim&&style=flat-square" align="center" />
-</div>  
-
-
-![](https://github-readme-stats.vercel.app/api?username=HashemGhanim&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HashemGhanim&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HashemGhanim&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-

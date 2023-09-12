@@ -136,3 +136,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=HashemGhanim&&style=flat-square" align="center" />
 </div>  
+
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=HashemGhanim)
+

@@ -54,10 +54,6 @@
 
 
 ### DevOps  
-<div align="center">  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-</div>
-
 ![Redis](https://img.shields.io/badge/Redis-A41E11?style=for-the-badge&logo=Redis&logoColor=white)
 </td></tr></table>  
 
@@ -85,12 +81,9 @@
 
 
 ## Github Stats  
-<!--<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HashemGhanim&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  -->
   ![](https://github-readme-stats.vercel.app/api?username=HashemGhanim&theme=default&hide_border=true&include_all_commits=true&count_private=true)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HashemGhanim&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=HashemGhanim&theme=default&hide_border=true)
-<br/>  
 
 
 ## Recent Blog Posts  

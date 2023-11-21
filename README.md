@@ -2,10 +2,10 @@
 ### <div align="center">I'm Hashem, a full-stack developer 👨‍💻 </div>  
   
 
-- 🌱 I’m currently learning Spring Boot   
+- 🌱 I’m specialize in Spring Boot  
   
 
-- ❓ Ask me about anything related to Spring Boot (backend) and related technologies  
+- ❓ Ask me about anything related to Spring Boot, Spring Core and more 
   
 
 - ⚡ Fun fact: I use tabs over spaces  

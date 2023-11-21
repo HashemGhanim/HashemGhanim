@@ -1,15 +1,17 @@
 
 ### <div align="center">I'm Hashem, a full-stack developer 👨‍💻 </div>  
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
+<img align="right" alt="Coding" width="50%" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
   
-- 🌱 I’m specialize in Spring Boot  
-  
-
-- ❓ Ask me about anything related to Spring Boot, Spring Core and more 
+<div align="left" width="50%">
+  - 🌱 I’m specialize in Spring Boot  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+  - ❓ Ask me about anything related to Spring Boot, Spring Core and more 
+  
+
+  - ⚡ Fun fact: I use tabs over spaces  
+</div>
   
 
 <br/>  

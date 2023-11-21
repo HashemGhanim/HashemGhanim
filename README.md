@@ -1,7 +1,7 @@
 
 ### <div align="center">I'm Hashem, a full-stack developer 👨‍💻 </div>  
 
-<img align="right" alt="Coding" width="50%" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
+<img align="right" alt="Coding" width="50%" height="300px" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
   
 <div align="left" width="50%">
   - 🌱 I’m specialize in Spring Boot  

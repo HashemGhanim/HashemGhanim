@@ -1,6 +1,3 @@
-<div style="display:flex;justify-content:center">
-  <img src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif"/>
-</div>
 ### <div align="center">I'm Hashem, a full-stack developer 👨‍💻 </div>  
 
   
